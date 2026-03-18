@@ -1,2 +1,2 @@
 # ai-crime-monitoring-system
-"AI-based system for detecting criminal activities using YOLOv5."
+"This project uses YOLOv4 and MediaPipe to detect weapons and analyze human movements in real-time video. It identifies suspicious or violent activities automatically to enhance surveillance and improve public safety."
