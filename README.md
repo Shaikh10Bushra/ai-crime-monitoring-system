@@ -1,4 +1,4 @@
-**AI-Driven Crime Monitoring & Surveillance System**🚨
+# **AI-Driven Crime Monitoring & Surveillance System**🚨
 
 This project is a real-time intelligent surveillance system designed to enhance public safety. By combining YOLOv4 for object detection and LSTM (Long Short-Term Memory) networks for action recognition, the system identifies criminal activities, weapons, and aggressive behavior in live video feeds.
 
