@@ -2,12 +2,12 @@
 
 This project is a real-time intelligent surveillance system designed to enhance public safety. By combining YOLOv4 for object detection and LSTM (Long Short-Term Memory) networks for action recognition, the system identifies criminal activities, weapons, and aggressive behavior in live video feeds.
 
-**Team Members**
+## **Team Members**
 
 1. Bushra Bilal Shaikh
 2. Ayan Sajidkhan Pathan
 
-**🌟 Key Features**
+## **🌟 Key Features**
 
 Weapon Detection: Identifies firearms and cold weapons using a custom-trained YOLOv4 model.
 
@@ -17,7 +17,7 @@ Hand Gesture Analysis: Detects suspicious grasping or reaching motions using spe
 
 Real-time Alerts: Trigger-based audio notifications (alert.wav) when a threat is detected.
 
-**📁 Project Structure**
+## **📁 Project Structure**
 
 realtime.py - The main execution script for live monitoring.
 
@@ -29,7 +29,7 @@ yolov4.cfg & coco.names - Configuration files for the object detection layer.
 
 alert.wav - Audio file for system warnings.
 
-**🛠️ Tech Stack**
+## **🛠️ Tech Stack**
 
 Computer Vision: OpenCV, MediaPipe
 
@@ -39,7 +39,7 @@ Object Detection: YOLOv4
 
 Language: Python
 
-**🚀 Getting Started**
+## **🚀 Getting Started**
 
 1. Clone the Repository
    git clone https://github.com/Shaikh10Bushra/ai-crime-monitoring-system.git
@@ -56,6 +56,6 @@ lstm-hand-grasping.h5
 4. Run the System
    python realtime.py
    
-**👨‍💻 Developer**
+## **👨‍💻 Developer**
 
 Bushra Shaikh - Electronics and Computer Engineering Student [https://www.linkedin.com/in/bushra-shaikh-18b43a362] 
