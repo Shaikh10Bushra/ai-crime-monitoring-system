@@ -4,8 +4,8 @@ This project is a real-time intelligent surveillance system designed to enhance 
 
 **Team Members**
 
-1. Bushra Shaikh
-2. Ayan Pathan
+1. Bushra Bilal Shaikh
+2. Ayan Sajidkhan Pathan
 
 **🌟 Key Features**
 
