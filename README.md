@@ -2,6 +2,11 @@
 
 This project is a real-time intelligent surveillance system designed to enhance public safety. By combining YOLOv4 for object detection and LSTM (Long Short-Term Memory) networks for action recognition, the system identifies criminal activities, weapons, and aggressive behavior in live video feeds.
 
+**Team Members**
+
+1. Bushra Shaikh
+2. Ayan Pathan
+
 **🌟 Key Features**
 
 Weapon Detection: Identifies firearms and cold weapons using a custom-trained YOLOv4 model.
